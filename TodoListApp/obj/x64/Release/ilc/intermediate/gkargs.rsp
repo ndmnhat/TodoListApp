@@ -1,0 +1,7 @@
+﻿"C:\Users\ASUS\source\repos\TodoListApp\TodoListApp\obj\x64\Release\ilc\in\TodoListApp.exe"
+/Lib:"C:\Users\ASUS\source\repos\TodoListApp\TodoListApp\obj\x64\Release\ilc\in"
+/Lib:"C:\Users\ASUS\.nuget\packages\runtime.win10-x64.microsoft.net.native.compiler\2.2.8-rel-28605-00\tools\x64\ilc\lib\Private"
+/WinMD:"C:\Users\ASUS\source\repos\TodoListApp\TodoListApp\obj\x64\Release\ilc\in\WinMetadata\Windows.winmd"
+/VSTelemetrySessionSettings:"{"IsOptedIn":true,"HostName":"Dev14","AppInsightsInstrumentationKey":"f144292e-e3b2-4011-ac90-20e5c03fbce5","AsimovInstrumentationKey":"AIF-312cbd79-9dbb-4c48-a7da-3cc2a931cb70","AppId":1001,"UserId":"5b2fb161-dee5-4ddc-a65f-fdb5ad4d0e3a","Id":"c0e40033-4f4f-4e4d-a1c9-f4a6e257c242","ProcessStartTime":637234730998976797}"
+/RdXmlPath:"C:\Users\ASUS\.nuget\packages\microsoft.net.native.compiler\2.2.8-rel-28605-00\tools\LibraryXML"
+/RunOnlyPreDR
